@@ -1,5 +1,5 @@
 // 设定你们的纪念日日期
-const startDate = new Date("2023-03-14T00:00:00").getTime(); // 请替换为实际的纪念日
+const startDate = new Date("2024-05-04T00:00:00").getTime(); // 请替换为实际的纪念日
 
 function updateCountup() {
   const now = new Date().getTime();
